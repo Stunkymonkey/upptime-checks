@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/buehler.rocks.ico",
     "slug": "newton",
     "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "95.78%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.22%",
+    "uptime": "85.77%",
+    "uptimeDay": "11.24%",
+    "uptimeWeek": "85.77%",
+    "uptimeMonth": "85.77%",
+    "uptimeYear": "85.77%",
     "time": 1571,
-    "timeDay": 2310,
+    "timeDay": 3066,
     "timeWeek": 1571,
     "timeMonth": 1571,
     "timeYear": 1571,
     "dailyMinutesDown": {
-      "2023-03-24": 61
+      "2023-03-24": 1279
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 980,
-    "timeWeek": 706,
-    "timeMonth": 706,
-    "timeYear": 706,
+    "time": 677,
+    "timeDay": 472,
+    "timeWeek": 677,
+    "timeMonth": 677,
+    "timeYear": 677,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,19 @@
     "url": "https://www.amani-kinderdorf.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.amani-kinderdorf.de.ico",
     "slug": "amani-kinderdorf",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 1101,
-    "timeDay": 1298,
-    "timeWeek": 1101,
-    "timeMonth": 1101,
-    "timeYear": 1101,
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1074,
+    "timeDay": 828,
+    "timeWeek": 1074,
+    "timeMonth": 1074,
+    "timeYear": 1074,
     "dailyMinutesDown": {
+      "2023-03-24": 0,
       "2023-03-21": 16
     }
   }
