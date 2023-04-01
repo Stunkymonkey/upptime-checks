@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/buehler.rocks.ico",
     "slug": "newton",
     "status": "up",
-    "uptime": "75.63%",
+    "uptime": "76.10%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.06%",
-    "uptimeMonth": "75.63%",
-    "uptimeYear": "75.63%",
+    "uptimeWeek": "70.76%",
+    "uptimeMonth": "76.10%",
+    "uptimeYear": "76.10%",
     "time": 1055,
     "timeDay": 888,
     "timeWeek": 475,
@@ -45,7 +45,7 @@
     "url": "https://www.amani-kinderdorf.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.amani-kinderdorf.de.ico",
     "slug": "amani-kinderdorf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,6 +57,7 @@
     "timeMonth": 1046,
     "timeYear": 1046,
     "dailyMinutesDown": {
+      "2023-04-01": 0,
       "2023-03-21": 16
     }
   }
