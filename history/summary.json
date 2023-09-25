@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/buehler.rocks.ico",
     "slug": "newton",
     "status": "up",
-    "uptime": "96.73%",
+    "uptime": "96.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.14%",
-    "uptimeYear": "96.73%",
+    "uptimeYear": "96.74%",
     "time": 596,
     "timeDay": 866,
     "timeWeek": 627,
@@ -34,9 +34,9 @@
     "url": "https://stunkymonkey.de/",
     "icon": "https://icons.duckduckgo.com/ip3/stunkymonkey.de.ico",
     "slug": "uberspace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -45,7 +45,9 @@
     "timeWeek": 806,
     "timeMonth": 777,
     "timeYear": 721,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-25": 0
+    }
   },
   {
     "name": "Amani-Kinderdorf",
