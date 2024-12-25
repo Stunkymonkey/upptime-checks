@@ -4,8 +4,8 @@
     "url": "https://buehler.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/buehler.rocks.ico",
     "slug": "newton",
-    "status": "up",
-    "uptime": "95.53%",
+    "status": "down",
+    "uptime": "95.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.56%",
@@ -16,6 +16,7 @@
     "timeMonth": 595,
     "timeYear": 628,
     "dailyMinutesDown": {
+      "2024-12-25": 0,
       "2024-12-12": 1189,
       "2024-12-11": 1440,
       "2024-12-10": 193,
