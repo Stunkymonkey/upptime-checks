@@ -1,7 +1,7 @@
 url: https://www.amani-kinderdorf.de/
-status: up
-code: 200
-responseTime: 2328
-lastUpdated: 2025-03-10T23:14:54.952Z
+status: down
+code: 503
+responseTime: 650
+lastUpdated: 2025-03-11T19:48:43.965Z
 startTime: 2023-03-18T17:40:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
