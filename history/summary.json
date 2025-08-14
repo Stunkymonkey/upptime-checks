@@ -72,7 +72,7 @@
     "url": "https://www.amani-kinderdorf.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.amani-kinderdorf.de.ico",
     "slug": "amani-kinderdorf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
     "uptimeDay": "70.38%",
     "uptimeWeek": "95.77%",
@@ -84,6 +84,7 @@
     "timeMonth": 1241,
     "timeYear": 1278,
     "dailyMinutesDown": {
+      "2025-08-14": 0,
       "2025-08-13": 427,
       "2025-07-03": 39,
       "2025-06-15": 103,
