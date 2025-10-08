@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/buehler.rocks.ico",
     "slug": "newton",
     "status": "up",
-    "uptime": "96.70%",
+    "uptime": "96.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "97.16%",
+    "uptimeYear": "97.43%",
     "time": 635,
-    "timeDay": 730,
-    "timeWeek": 681,
-    "timeMonth": 706,
+    "timeDay": 618,
+    "timeWeek": 684,
+    "timeMonth": 704,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2025-09-21": 51,
@@ -33,8 +33,7 @@
       "2024-11-01": 1195,
       "2024-10-31": 1440,
       "2024-10-30": 686,
-      "2024-10-20": 400,
-      "2024-10-08": 1224
+      "2024-10-20": 400
     }
   },
   {
@@ -49,10 +48,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 709,
-    "timeDay": 881,
-    "timeWeek": 711,
-    "timeMonth": 775,
-    "timeYear": 702,
+    "timeDay": 807,
+    "timeWeek": 750,
+    "timeMonth": 770,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2024-11-28": 28
     }
@@ -69,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 1266,
-    "timeDay": 1470,
-    "timeWeek": 1139,
-    "timeMonth": 1249,
+    "timeDay": 1312,
+    "timeWeek": 1204,
+    "timeMonth": 1245,
     "timeYear": 1324,
     "dailyMinutesDown": {
       "2025-08-24": 153,
