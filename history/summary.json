@@ -10,11 +10,11 @@
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.95%",
-    "time": 639,
-    "timeDay": 731,
-    "timeWeek": 847,
-    "timeMonth": 805,
-    "timeYear": 665,
+    "time": 641,
+    "timeDay": 1340,
+    "timeWeek": 945,
+    "timeMonth": 815,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2025-11-24": 59,
       "2025-09-21": 51,
@@ -42,13 +42,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 724,
-    "timeDay": 688,
-    "timeWeek": 783,
-    "timeMonth": 789,
+    "timeDay": 876,
+    "timeWeek": 807,
+    "timeMonth": 793,
     "timeYear": 713,
-    "dailyMinutesDown": {
-      "2024-11-28": 28
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Amani-Kinderdorf",
@@ -61,11 +59,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.87%",
     "uptimeYear": "99.54%",
-    "time": 1306,
-    "timeDay": 1045,
-    "timeWeek": 1291,
-    "timeMonth": 1593,
-    "timeYear": 1346,
+    "time": 1305,
+    "timeDay": 1002,
+    "timeWeek": 1276,
+    "timeMonth": 1592,
+    "timeYear": 1345,
     "dailyMinutesDown": {
       "2025-11-14": 27,
       "2025-11-03": 905,
