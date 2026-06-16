@@ -34,18 +34,20 @@
     "url": "https://stunkymonkey.de/",
     "icon": "https://icons.duckduckgo.com/ip3/stunkymonkey.de.ico",
     "slug": "uberspace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 746,
+    "time": 747,
     "timeDay": 514,
     "timeWeek": 622,
     "timeMonth": 766,
     "timeYear": 761,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-16": 0
+    }
   },
   {
     "name": "Amani-Kinderdorf",
