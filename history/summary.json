@@ -32,22 +32,22 @@
     "url": "https://stunkymonkey.de/",
     "icon": "https://icons.duckduckgo.com/ip3/stunkymonkey.de.ico",
     "slug": "uberspace",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 755,
-    "timeDay": 910,
-    "timeWeek": 788,
-    "timeMonth": 776,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.89%",
+    "time": 754,
+    "timeDay": 798,
+    "timeWeek": 775,
+    "timeMonth": 773,
     "timeYear": 774,
     "dailyMinutesDown": {
       "2026-06-16": 299,
       "2026-06-23": 119,
       "2026-06-28": 83,
-      "2026-08-04": 0
+      "2026-08-04": 76
     }
   },
   {
